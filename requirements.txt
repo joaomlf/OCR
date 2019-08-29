@@ -1,0 +1,8 @@
+Modules:
+	pytesseract==0.2.7
+	pandas==0.24.2
+	opencv-python==4.1.0.25
+	Pillow==5.4.1
+
+Programs:
+	Tesseract-OCR (https://github.com/UB-Mannheim/tesseract/wiki)
